@@ -32,7 +32,6 @@
   border-radius: 100px;
   box-shadow: 0 0 5px #E63946;
   color: #f8f9fa;
-  font-size: 14px;
   text-transform: uppercase;
 }
 
@@ -76,8 +75,6 @@
 }
 
 .timeline .timeline-date {
-  font-size: 14px;
-  font-weight: 600;
   margin: 41px 0 0 0;
 }
 
@@ -203,15 +200,11 @@
   width: 100%;
 }
 
-.timeline .timeline-text h3 {
-  font-size: 16px;
-  font-weight: 600;
+.timeline .timeline-text h6 {
   margin-bottom: 3px;
 }
 
 .timeline .timeline-text p {
-  font-size: 14px;
-  font-weight: 400;
   margin-bottom: 0;
 }
 
